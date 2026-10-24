@@ -18,12 +18,12 @@ Clone [the repository](https://github.com/EmanuelaBoros/nlp-course) `git clone g
 
 | # | Topic | Slides / Materials | Notebook | Status |
 |---|-------|--------------------|----------|--------|
-| 1 | Word Embeddings & Text Classification | [📄 Slides](https://drive.google.com/file/d/1y2GKIKBzie7l8iycBO6gTKGiTTfJc4Dr/view) | [Notebook](./week01_embeddings/01.md) | ✅ Available |
-| 2 | Language Models | [📄 Slides](./week02_lm/lecture_lm.pdf) | [Notebook](./week02_lm/02.md) | ✅ Available |
-| 3 | Seq2seq & Attention | [📄 Slides](./week03_attention/seq2seq_and_attention.pptx.pdf) | [Notebook](./week03_attention/03.md) | ✅ Available |
-| 4 | Transfer Learning | — | [Notebook](./week04_transfer/04.md) | ✅ Available |
-| 5 | Large Language Models | [📄 Slides](./week05_llm/lecture_llm.pdf) | [Notebook](./week05_llm/05.md) | ✅ Available |
-| 6 | Prompting | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
+| 1 | Word Embeddings & Text Classification | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
+| 2 | Language Models | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
+| 3 | Seq2seq & Attention | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
+| 4 | Transfer Learning | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
+| 5 | Large Language Models | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
+| 6 | In-Context Learning | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
 | 7 | Fine-tuning | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
 | 8 | Efficiency | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
 | 9 | Retrieval (RAG) | — | [Notebook](./coming-soon.md) | 🚧 Coming soon |
@@ -42,7 +42,7 @@ Clone [the repository](https://github.com/EmanuelaBoros/nlp-course) `git clone g
 - Sequence-to-Sequence Models & Attention
 - Transfer Learning & Pretrained Transformers
 - Large Language Models
-- Prompting, Fine-tuning & Efficiency
+- In-Context Learning, Fine-tuning & Efficiency
 - Retrieval-Augmented Generation & Agents
 - Interpretability & Multimodal Models
 

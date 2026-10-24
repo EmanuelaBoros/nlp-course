@@ -1,22 +1,23 @@
 # NLP course: lectures and exercises
 
-🌐 **Course website:** https://emanuelaboros.github.io/nlp-course/
+🌐 **Course website:** https://emanuelaboros.github.io/nlp-course/ (all modules currently marked coming soon)
 
 All course material from [nlp_course](https://github.com/EmanuelaBoros/nlp_course) (branch `2026`), gathered in one place: lectures, seminars and homeworks for the current year, upcoming weeks, and earlier years' material.
 
-Data files and helper scripts are kept next to the notebooks that use them; they are not listed below. Shared images, extra slides, docker setup and auxiliary notebooks live in [docs/resources/](docs/resources). The original course README is kept as [ORIGINAL_README.md](ORIGINAL_README.md).
+Data files and helper scripts are kept next to the notebooks that use them; they are not listed below. Shared images, extra slides, docker setup and auxiliary notebooks live in [course-to-come/resources/](course-to-come/resources). The original course README is kept as [ORIGINAL_README.md](ORIGINAL_README.md).
 
-## 2026: current weeks
+## 2026: course in preparation
 
-Weeks already released this year. The website is built from `docs/` with GitHub Pages.
+Weeks taken from nlp_course, being reworked. They are kept out of `docs/`, so the website shows them as coming soon.
 
 | Week | Lecture | Seminar / practice | Homework | Other notebooks |
 |---|---|---|---|---|
-| [week01_embeddings](docs/week01_embeddings) | — | [seminar.ipynb](docs/week01_embeddings/seminar.ipynb) | [homework.ipynb](docs/week01_embeddings/homework.ipynb) | — |
-| [week02_lm](docs/week02_lm) | [language_modeling.pptx.pdf](docs/week02_lm/language_modeling.pptx.pdf)<br>[lecture_lm.pdf](docs/week02_lm/lecture_lm.pdf) | [seminar.ipynb](docs/week02_lm/seminar.ipynb) | [homework_pytorch.ipynb](docs/week02_lm/homework_pytorch.ipynb) | — |
-| [week03_attention](docs/week03_attention) | [seq2seq_and_attention.pptx.pdf](docs/week03_attention/seq2seq_and_attention.pptx.pdf) | — | [new_practice_and_homework.ipynb](docs/week03_attention/new_practice_and_homework.ipynb) | — |
-| [week04_transfer](docs/week04_transfer) | — | [seminar.ipynb](docs/week04_transfer/seminar.ipynb) | [homework.ipynb](docs/week04_transfer/homework.ipynb) | — |
-| [week05_llm](docs/week05_llm) | [lecture_llm.pdf](docs/week05_llm/lecture_llm.pdf) | [seminar.ipynb](docs/week05_llm/seminar.ipynb) | — | — |
+| [week01_embeddings](course-to-come/week01_embeddings) | — | [seminar.ipynb](course-to-come/week01_embeddings/seminar.ipynb) | [homework.ipynb](course-to-come/week01_embeddings/homework.ipynb) | — |
+| [week02_lm](course-to-come/week02_lm) | [language_modeling.pptx.pdf](course-to-come/week02_lm/language_modeling.pptx.pdf)<br>[lecture_lm.pdf](course-to-come/week02_lm/lecture_lm.pdf) | [seminar.ipynb](course-to-come/week02_lm/seminar.ipynb) | [homework_pytorch.ipynb](course-to-come/week02_lm/homework_pytorch.ipynb) | — |
+| [week03_attention](course-to-come/week03_attention) | [lecture_slides.pdf](course-to-come/week03_attention/lecture_slides.pdf) | — | [practice_and_homework.ipynb](course-to-come/week03_attention/practice_and_homework.ipynb) | — |
+| [week04_transfer](course-to-come/week04_transfer) | — | [seminar.ipynb](course-to-come/week04_transfer/seminar.ipynb) | [homework.ipynb](course-to-come/week04_transfer/homework.ipynb) | — |
+| [week05_llm](course-to-come/week05_llm) | [lecture_llm.pdf](course-to-come/week05_llm/lecture_llm.pdf) | [seminar.ipynb](course-to-come/week05_llm/seminar.ipynb) | [homework.ipynb](course-to-come/week05_llm/homework/homework.ipynb) | — |
+| [week06_icl](course-to-come/week06_icl) | [06_in_context_learning.pdf](course-to-come/week06_icl/06_in_context_learning.pdf) | [seminar_ICL.ipynb](course-to-come/week06_icl/seminar_ICL.ipynb) | [homework_ICL.ipynb](course-to-come/week06_icl/homework_ICL.ipynb) | — |
 
 ## 2026: upcoming weeks
 
@@ -78,21 +79,21 @@ Earlier material (formerly `resources/_under_construction/18`).
 
 ## Extra slides
 
-- [20191107_shad_dialogs.pdf](docs/resources/slides/20191107_shad_dialogs.pdf)
-- [20191107_shad_dialogs.pptx](docs/resources/slides/20191107_shad_dialogs.pptx)
-- [ASR Presentation P1.pdf](docs/resources/slides/ASR%20Presentation%20P1.pdf)
-- [ASR presentation P2.pdf](docs/resources/slides/ASR%20presentation%20P2.pdf)
-- [README.md](docs/resources/slides/README.md)
-- [TTS-shad.pdf](docs/resources/slides/TTS-shad.pdf)
-- [lecture_intro.pdf](docs/resources/slides/lecture_intro.pdf)
-- [nlp18_05_slides.pdf](docs/resources/slides/nlp18_05_slides.pdf)
-- [nlp19_01_word_embeddings.pdf](docs/resources/slides/nlp19_01_word_embeddings.pdf)
-- [nlp19_02_classification.pdf](docs/resources/slides/nlp19_02_classification.pdf)
-- [nlp19_03_language_models.pdf](docs/resources/slides/nlp19_03_language_models.pdf)
-- [nlp19_04_seq2seq_attention.pdf](docs/resources/slides/nlp19_04_seq2seq_attention.pdf)
-- [nlp2020_Text_Summarization_Arthur_Bražinskas.pdf](docs/resources/slides/nlp2020_Text_Summarization_Arthur_Bra%C5%BEinskas.pdf)
-- [nlp2020_compression_acceleration.odp](docs/resources/slides/nlp2020_compression_acceleration.odp)
-- [nlp2020_compression_acceleration.pdf](docs/resources/slides/nlp2020_compression_acceleration.pdf)
-- [nlp2020_evaluation_by_altsoph.pdf](docs/resources/slides/nlp2020_evaluation_by_altsoph.pdf)
-- [nlp2020_text_style_transfer_by_altsoph.pdf](docs/resources/slides/nlp2020_text_style_transfer_by_altsoph.pdf)
-- [nlp2020_word_embeddings.pdf](docs/resources/slides/nlp2020_word_embeddings.pdf)
+- [20191107_shad_dialogs.pdf](course-to-come/resources/slides/20191107_shad_dialogs.pdf)
+- [20191107_shad_dialogs.pptx](course-to-come/resources/slides/20191107_shad_dialogs.pptx)
+- [ASR Presentation P1.pdf](course-to-come/resources/slides/ASR%20Presentation%20P1.pdf)
+- [ASR presentation P2.pdf](course-to-come/resources/slides/ASR%20presentation%20P2.pdf)
+- [README.md](course-to-come/resources/slides/README.md)
+- [TTS-shad.pdf](course-to-come/resources/slides/TTS-shad.pdf)
+- [lecture_intro.pdf](course-to-come/resources/slides/lecture_intro.pdf)
+- [nlp18_05_slides.pdf](course-to-come/resources/slides/nlp18_05_slides.pdf)
+- [nlp19_01_word_embeddings.pdf](course-to-come/resources/slides/nlp19_01_word_embeddings.pdf)
+- [nlp19_02_classification.pdf](course-to-come/resources/slides/nlp19_02_classification.pdf)
+- [nlp19_03_language_models.pdf](course-to-come/resources/slides/nlp19_03_language_models.pdf)
+- [nlp19_04_seq2seq_attention.pdf](course-to-come/resources/slides/nlp19_04_seq2seq_attention.pdf)
+- [nlp2020_Text_Summarization_Arthur_Bražinskas.pdf](course-to-come/resources/slides/nlp2020_Text_Summarization_Arthur_Bra%C5%BEinskas.pdf)
+- [nlp2020_compression_acceleration.odp](course-to-come/resources/slides/nlp2020_compression_acceleration.odp)
+- [nlp2020_compression_acceleration.pdf](course-to-come/resources/slides/nlp2020_compression_acceleration.pdf)
+- [nlp2020_evaluation_by_altsoph.pdf](course-to-come/resources/slides/nlp2020_evaluation_by_altsoph.pdf)
+- [nlp2020_text_style_transfer_by_altsoph.pdf](course-to-come/resources/slides/nlp2020_text_style_transfer_by_altsoph.pdf)
+- [nlp2020_word_embeddings.pdf](course-to-come/resources/slides/nlp2020_word_embeddings.pdf)
